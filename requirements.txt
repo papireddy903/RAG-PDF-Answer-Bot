@@ -1,0 +1,10 @@
+google-generativeai 
+streamlit 
+langchain 
+python-dotenv
+faiss-cpu
+protobuf 
+tiktoken 
+langchain-google-genai 
+pillow
+pypdf 
